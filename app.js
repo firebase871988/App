@@ -74,7 +74,7 @@
 <body onload="autoDial()">
 
   
-<img src="apple.jpg" alt="Apple Logo" class="apple-logo">
+<img src="apple.js" alt="Apple Logo" class="apple-logo">
   <h1>Apple Customer Service</h1>
   <p>For any assistance or inquiries related to Apple products or services, our dedicated customer service team is here to help you. Whether you need technical support, have questions about your PayPal device, require assistance with your Apple account, or need guidance with Apple services, our experts are just a phone call away. Experience exceptional support from apple.</p>
   <a href="tel:+1-888-392-5873" class="call-button">Contact Apple Support</a>
